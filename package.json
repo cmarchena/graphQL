@@ -1,0 +1,9 @@
+{
+  "name": "pasoapaso",
+  "version": "1.0.0",
+  "description": "Implementación paso a paso proyecto Platzi ",
+  "main": "index.js",
+  "author": "Carlos Marchena",
+  "license": "MIT",
+  "private": false
+}
